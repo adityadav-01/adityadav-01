@@ -26,7 +26,7 @@
 
 - 💎 **How to reach me:** **adityadav757@gmail.com**
 - ✨ **Fun fact:** *I love coding and building cool projects!*
-- 🔬 **Currently Learning:** * ADVANCED DATA EXPLORATION AND PREPARATION , PYTHON AND DATA STRUCTURE AND ALGORITHM *
+- 🔬 **Currently Learning:** *ADVANCED DATA EXPLORATION AND PREPARATION , PYTHON AND DATA STRUCTURE AND ALGORITHM*
 - 🌟 **Future Goals:** *To become a data analyst*
 
 ---
