@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Yadav</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/banner.png" alt="Aditya Kumar Yadav" />
+  <img src="https://raw.githubusercontent.com/adityadav-01/adityadav-01/main/banner.png" alt="Aditya Kumar Yadav" />
 </p>
 
 <p align="center">
@@ -42,29 +42,29 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityadav-01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadav-01&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 <h3 align="center">GitHub Activity</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=adityadav-01&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 <h3 align="center">Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityadav-01&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
