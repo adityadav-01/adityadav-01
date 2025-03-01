@@ -26,7 +26,7 @@
 
 - 💎 **How to reach me:** **adityadav757@gmail.com**
 - ✨ **Fun fact:** *I love coding and building cool projects!*
-- 🔬 **Currently Learning:** *ADVANCED DATA EXPLORATION AND PREPARATION , PYTHON AND DATA STRUCTURE AND ALGORITHM*
+- 🔬 **Currently Learning:** *ADVANCED DATA EXPLORATION AND PREPARATION, PYTHON, AND DATA STRUCTURE AND ALGORITHM*
 - 🌟 **Future Goals:** *To become a data analyst*
 
 ---
@@ -55,7 +55,7 @@
 
 <h3 align="center">GitHub Activity</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=adityadav-01&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadav-01&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
