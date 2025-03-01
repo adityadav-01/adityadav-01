@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Yadav</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityadav-01/adityadav-01/main/banner.png" alt="Aditya Kumar Yadav" />
+  <img src="https://raw.githubusercontent.com/adityadav-01/adityadav-01/main/GitHub-Profile/1732890994588.jpg" alt="Aditya Kumar Yadav" />
 </p>
 
 <p align="center">
