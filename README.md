@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Yadav</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/banner.png" alt="Aditya Kumar Yadav" />
+</p>
+
+<p align="center">
   <a href="https://x.com/adityadav_01?t=o3ubTGyNx8v-KFTN6IIqLg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -12,14 +16,11 @@
   <a href="https://www.kaggle.com/adityadav8181" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://fb.com/your-facebook-profile" target="_blank">
+  <a href="https://www.facebook.com/share/1AHcUbtSr4/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/adityadav_01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/your-youtube-channel" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -27,6 +28,8 @@
 
 - 💎 **How to reach me:** **adityadav757@gmail.com**
 - ✨ **Fun fact:** *I love coding and building cool projects!*
+- 🔬 **Currently Learning:** *Advanced JavaScript & Machine Learning*
+- 🌟 **Future Goals:** *To become a full-stack developer & AI expert!*
 
 ---
 
@@ -49,3 +52,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+<h3 align="center">GitHub Activity</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<h3 align="center">Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
