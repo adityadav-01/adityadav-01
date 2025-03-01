@@ -39,8 +39,9 @@
 ---
 
 <h3 align="center">GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical&langs_count=8&hide=css,html&include_repo=DSA-Notes,C++,Python" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical&langs_count=6&hide=none" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -50,6 +51,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadav-01&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ---
