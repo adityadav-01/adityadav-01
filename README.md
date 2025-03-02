@@ -26,14 +26,14 @@
 
 - 💎 **How to reach me:** **adityadav757@gmail.com**
 - ✨ **Fun fact:** *I love coding and building cool projects!*
-- 🔬 **Currently Learning:** *ADVANCED DATA EXPLORATION AND PREPARATION, PYTHON, AND DATA STRUCTURE AND ALGORITHM*
+- 🔬 **Currently Learning:** *ADVANCED DATA EXPLORATION AND PREPARATION, PYTHON, R, AND DATA STRUCTURE AND ALGORITHM*
 - 🌟 **Future Goals:** *To become a data analyst*
 
 ---
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,r,java,js,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,linux" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical&langs_count=6&hide=none" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical&langs_count=8&hide=none&include_titles=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -51,8 +51,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadav-01&theme=radical" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 
