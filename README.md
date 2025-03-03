@@ -1,4 +1,4 @@
-## Hi here is ADITYA KUMAR YADAV 👋 
+## Hi here is ADITYA KUMAR YADAV 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityadav-01/adityadav-01/main/GitHub-Profile/1732890994588.jpg" alt="Aditya Kumar Yadav" />
