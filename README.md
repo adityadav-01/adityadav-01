@@ -1,7 +1,7 @@
-## Hi here is ADITYA KUMAR YADAV 👋
+## 👋 Hi, I'm Aditya Kumar Yadav
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityadav-01/adityadav-01/main/GitHub-Profile/1732890994588.jpg" alt="Aditya Kumar Yadav" />
+  <img src="https://raw.githubusercontent.com/adityadav-01/adityadav-01/main/GitHub-Profile/1732890994588.jpg" alt="Aditya Kumar Yadav" height="220"/>
 </p>
 
 <p align="center">
@@ -24,49 +24,53 @@
 
 ---
 
-- 💎 **How to reach me:** **adityadav757@gmail.com**
-- ✨ **Fun fact:** *I love coding and building cool projects!*
-- 🔬 **Currently Learning:** *ADVANCED DATA EXPLORATION AND PREPARATION, PYTHON, R, AND DATA STRUCTURE AND ALGORITHM*
-- 🌟 **Future Goals:** *To become a data analyst*
+### ✨ About Me
+
+- 🔭 **Currently Working On:** Personal & open-source projects  
+- 🎓 **Learning:** Advanced Data Analysis, Python, R, and DSA  
+- 🎯 **Goal:** To become a skilled **Data Analyst**  
+- 📫 **Reach Me At:** `adityadav757@gmail.com`  
+- 💡 **Fun Fact:** I enjoy solving complex problems and building cool stuff!
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+### 🚀 Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,r,java,js,html,css,react,nodejs,mongodb,mysql,bootstrap,git" />
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical&langs_count=8&hide=none&include_titles=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav-01&layout=compact&theme=radical&langs_count=8&hide=none" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityadav-01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadav-01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
 ---
 
-<h3 align="center">GitHub Activity</h3>
+### 🧠 GitHub Activity
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadav-01&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityadav-01&theme=radical" alt="GitHub Activity" />
 </p>
 
 ---
 
-<h3 align="center">Trophies</h3>
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityadav-01&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityadav-01&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
 </p>
 
 ---
+
