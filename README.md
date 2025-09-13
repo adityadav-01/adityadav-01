@@ -52,6 +52,32 @@
 
 ---
 
+## 📂 Projects  
+
+| **Project Name**                | **Description**                                          | **Link** |
+|---------------------------------|----------------------------------------------------------|----------|
+| **Blinkit Sales Analysis**      | Dashboard analyzing Blinkit's sales and growth.          | [View Project](https://github.com/adityadav-01) |
+| **Student Depression Analysis** | Data cleaning, visualization, regression & insights in R.| [View Project](https://github.com/adityadav-01) |
+| **BMW Website Project**         | Responsive BMW showcase website using JavaScript.        | [View Project](https://github.com/adityadav-01) |
+| **Avengers Fanpage Website**    | Marvel Avengers fan site with animations and effects.    | [View Project](https://github.com/adityadav-01) |
+
+> _More projects coming soon..._
+
+---
+
+## 🎓 Certificates  
+
+| **Certificate Name**                          | **Issued By**         | **Platform**     |
+|----------------------------------------------|-----------------------|------------------|
+| Crash Course on Python                        | Google                 | Coursera         |
+| Databases and SQL for Data Science            | IBM                    | Coursera         |
+| Career Essentials in Data Analysis            | Microsoft & LinkedIn   | LinkedIn Learning|
+| R Programming                                 | Johns Hopkins University | Coursera       |
+| Introduction to Data Analytics                | IBM                    | Coursera         |
+| Microsoft Azure (Create ML Models)            | Microsoft              | Coursera         |
+
+---
+
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityadav-01&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" />
@@ -83,10 +109,14 @@
 
 ---
 
+
+
+
 <h3 align="center">
   ⭐ Turning Ideas into Impactful Solutions 🚀
 </h3>
 
+---
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
